@@ -3,7 +3,11 @@ import "./numbers.css";
 
 class Numbers extends React.Component {
   render() {
-    return <div className="Bottom">0</div>;
+    return (
+      <div className="NumbersDisplay">
+        <input type="number"></input>
+      </div>
+    );
   }
 }
 

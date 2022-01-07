@@ -5,11 +5,11 @@ import Button from "./components/button/Button";
 function App() {
   return (
     <div className="App">
-      <section className="Operator">
-        <Operators />
-      </section>
       <section className="Numbers">
         <Numbers />
+      </section>
+      <section className="Operators">
+        <Operators />
       </section>
       <div>
         <Button></Button>
