@@ -2,3 +2,10 @@
   background: #ff0000;
   height: 30vh;
 }
+
+input {
+  border: 0px;
+  width: 356px;
+  height: 190px;
+  font-size: 150px;
+}
