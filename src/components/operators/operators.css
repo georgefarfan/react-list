@@ -3,3 +3,16 @@
   height: 70vh;
   background: #008000;
 }
+
+table {
+  width: 100%;
+}
+
+td {
+  height: 100%;
+}
+
+input {
+  /*font-size: 455%;*/
+  font-size: 75px;
+}
