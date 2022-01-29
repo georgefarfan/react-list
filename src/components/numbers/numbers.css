@@ -1,0 +1,11 @@
+.NumbersDisplay {
+  background: #ff0000;
+  height: 30vh;
+}
+
+input {
+  border: 0px;
+  width: 100%;
+  height: 100%;
+  font-size: 150px;
+}
