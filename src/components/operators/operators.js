@@ -1,5 +1,5 @@
 import React from "react";
-import "./operators.css";
+import "./Operators.css";
 
 class Operators extends React.Component {
   render() {
