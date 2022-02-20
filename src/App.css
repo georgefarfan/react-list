@@ -1,4 +1,15 @@
 .App {
   height: 100vh;
-  background-color: gray;
+  /*background-color: gray;*/
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #20c055e0;
 }
